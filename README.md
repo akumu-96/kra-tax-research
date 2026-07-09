@@ -1,4 +1,4 @@
-# 🇰🇪 Kenya Revenue Authority - Tax Systems Automation
+# 🇰🇪 KKRA - Tax Systems Automation
 
 ![Python 3.9+](https://img.shields.io/badge/Python-3.9+-blue)
 ![License: MIT](https://img.shields.io/badge/License-MIT-green)
